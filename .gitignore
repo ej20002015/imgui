@@ -6,6 +6,7 @@ bin-int/
 
 #Ignore project files
 **.vcxproj
+**.vcxproj.filters
 
 ## OSX artifacts
 .DS_Store
